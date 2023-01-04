@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinelogy", "Cinelogy\Cinelogy.csproj", "{B296249D-709E-4959-AD71-9685E8B2F788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B296249D-709E-4959-AD71-9685E8B2F788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B296249D-709E-4959-AD71-9685E8B2F788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B296249D-709E-4959-AD71-9685E8B2F788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B296249D-709E-4959-AD71-9685E8B2F788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E90979-3885-4AB1-8D65-1C78E1A689B7}
+	EndGlobalSection
+EndGlobal
